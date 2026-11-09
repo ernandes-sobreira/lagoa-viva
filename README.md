@@ -8,7 +8,7 @@ A página principal é `index.html`. O jogo usa os arquivos de `game-assets/`.
 
 ## Publicação
 
-Este repositório está organizado para publicação pelo GitHub Pages. Em **Settings → Pages**, selecione **Deploy from a branch**, escolha `main` e a pasta `/(root)`.
+Para publicar, abra **Settings → Pages** no repositório, selecione **Deploy from a branch**, escolha `main` e a pasta `/(root)`. Depois de salvar, o GitHub Pages disponibiliza o jogo em `https://ernandes-sobreira.github.io/lagoa-viva/`.
 
 ## Ranking
 
